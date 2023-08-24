@@ -1,10 +1,12 @@
 # CSC110 - Programming in C
-If you are reading this inside your local VM, it worked!
+This repository contains code samples that will be used in class.
 
 ## Linux Command Cheat Sheet
 - **ls**:  list the contents of the current directory
 - **pwd**: print the name of the current directory
 - **cd**:  change the current directory
+- **mv**:  relocate or rename a file
+- **cp**:  make a copy a file or directory
 
 ## Git Cheat Sheet
 - **git clone**:  clone (make a copy of) a repository to your local machine
