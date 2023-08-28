@@ -8,10 +8,10 @@ This repository contains code samples that will be used in class.
 
 ## Linux Command Cheat Sheet
 - `man`: view the manual for any linux command
--- `man ls`: view the manual for the `ls command`
+  - `man ls`: view the manual for the `ls command`
 - `ls`:  list the contents of the current directory
--- `ls ..`: list the contents of the parent director
--- `ls project1`: list the contents of the directory called `project1` (if it exists)
+  - `ls ..`: list the contents of the parent director
+  - `ls project1`: list the contents of the directory called `project1` (if it exists)
 - `pwd`: print the name of the current directory
 - `cd`:  change the current directory
 - `mv`:  relocate or rename a file
