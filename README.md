@@ -4,13 +4,16 @@ This repository contains code samples that will be used in class.
 ## Compiling  & Running C Programs
 - `gcc <fileName>`:  compile the `.c` file (fileName) into an executable called `a.out`
 - `gcc -o <exeName> <fileName>`: compile the `.c` file (fileName) into an executable called `exeName`
+- `./<exeName>`: execute the file named `exeName` (that is in the current directory)
 
 ## Linux Command Cheat Sheet
+- `man`: view the manual for any linux command
 - `ls`:  list the contents of the current directory
 - `pwd`: print the name of the current directory
 - `cd`:  change the current directory
 - `mv`:  relocate or rename a file
 - `cp`:  make a copy a file or directory
+- `rm`:  remove a file
 
 ## Git Cheat Sheet
 - `git clone`:  clone (make a copy of) a repository to your local machine
