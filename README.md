@@ -1,6 +1,10 @@
 # CSC110 - Programming in C
 This repository contains code samples that will be used in class.
 
+## Compiling  & Running C Programs
+- **gcc <fileName>**:  compile the .c file specified (creating executable called `a.out`)
+- **gcc -o <exeName> <fileName>**: compile the .c file into an executable called `fileName`
+
 ## Linux Command Cheat Sheet
 - **ls**:  list the contents of the current directory
 - **pwd**: print the name of the current directory
