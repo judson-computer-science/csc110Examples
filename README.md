@@ -2,8 +2,8 @@
 This repository contains code samples that will be used in class.
 
 ## Compiling  & Running C Programs
-- **gcc &lt;fileName&gt;**:  compile the .c file specified (creating executable called `a.out`)
-- **gcc -o <exeName> <fileName>**: compile the .c file into an executable called `fileName`
+- **gcc &lt;fileName&gt;**:  compile the .c file (fileName) into an executable called `a.out`
+- **gcc -o &lt;exeName&gt; &lt;fileName&gt;**: compile the .c file (fileName) into an executable called `fileName`
 
 ## Linux Command Cheat Sheet
 - **ls**:  list the contents of the current directory
