@@ -9,10 +9,14 @@ This repository contains code samples that will be used in class.
 ## Linux Command Cheat Sheet
 The following list are some of the more common Linux command that you will need for this class. Under each main bullet point, the sub-bullets provide examples of how the command can be used.
 ### "man" command
-view the official manual for any linux command
+This command allows you to view the official manual for any linux command. When you are in the viewing mode, use the "f" key to go forward by one page and use the "b" key to go back by one page. Use the "q" key to quit.
 - **Example**: view the manual for the `ls` command
 ````
 man ls
+````
+- **Example**: view the manual for the `gcc` compiler
+````
+man gcc
 ````
 ### "ls" command
 list the contents of the current directory
