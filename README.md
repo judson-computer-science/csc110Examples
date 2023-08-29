@@ -9,10 +9,10 @@ This repository contains code samples that will be used in class.
 ## Linux Command Cheat Sheet
 The following list are some of the more common Linux command that you will need for this class. Under each main bullet point, the sub-bullets provide examples of how the command can be used.
 ### "man" command
-view the manual for any linux command
-- view the manual for the `ls` command
+view the official manual for any linux command
 ````
-man ls
+Example: view the manual for the 'ls' command
+	man ls
 ````
 
 
