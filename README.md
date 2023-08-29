@@ -10,7 +10,7 @@ This repository contains code samples that will be used in class.
 The following list are some of the more common Linux command that you will need for this class. Under each main bullet point, the sub-bullets provide examples of how the command can be used.
 ### "man" command
 view the official manual for any linux command
-- **Example**: view the manual for the 'ls' command
+- **Example**: view the manual for the `ls` command
 ````
 man ls
 ````
@@ -60,16 +60,15 @@ cp file1.txt file2.txt
 ````
 - **Example**: copy the directory called `dir1` and all of its contents into the parent directory with the new name `dir2`. This assumes that the target directory (`dir2`) does not already exist in that location
 ````
-cp -r dir1 ../dir2`
+cp -r dir1 ../dir2
 ````
-
 ### "rm" command
 remove a file (be careful because there is no recovering from this)
-- **Example**: permanently delete 'file1.txt'
+- **Example**: permanently delete `file1.txt`
 ````
 rm file1.txt
 ````
-- **Example**: permanently remove the directory called 'dir1' and all of its contents
+- **Example**: permanently delete the directory called `dir1` and all of its contents
 ````
 rm -r dir1
 ````
@@ -78,7 +77,7 @@ rm -r dir1
 remove an empty directory (to remove a directory that is not empty, use `rm`)
 
 ````
-Example: remove the empty directory called 'dir1'
+Example: remove the empty directory called `dir1`
 
 	rmdir dir1
 ````
