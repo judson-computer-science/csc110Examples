@@ -10,9 +10,9 @@ This repository contains code samples that will be used in class.
 The following list are some of the more common Linux command that you will need for this class. Under each main bullet point, the sub-bullets provide examples of how the command can be used.
 ### "man" command
 view the official manual for any linux command
-- Example: view the manual for the 'ls' command
+- **Example**: view the manual for the 'ls' command
 ````
-	man ls
+man ls
 ````
 ### "ls" command
 list the contents of the current directory
