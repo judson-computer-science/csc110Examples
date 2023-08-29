@@ -17,9 +17,14 @@ man ls
 ### "ls" command
 list the contents of the current directory
 
-  - `ls ..`: list the contents of the parent director
-  - `ls project1`: list the contents of the directory called `project1` (if it exists)
-
+- **Example**: list the contents of the parent director
+````
+ls ..
+````
+- **Example**: list the contents of the directory called `project1` (if it exists)
+````
+ls project1
+````
 ### "pwd" command
 
 - `pwd`: print the name of the current directory
