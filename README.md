@@ -26,36 +26,52 @@ ls ..
 ls project1
 ````
 ### "pwd" command
-
-- `pwd`: print the name of the current directory
+Print the name of the current directory. This command is very simple and you won't use any additional variations in your day-to-day life.
 
 ### "cd" command
-- `cd`:  change the current directory
-  - `cd ..`: change to the parent directory
-  - `cd -`: change to the previous directory
-  - `cd /home/judson/repos/test`: change to the directory called `test`, found within the `/home/judson/repos` directory
-
+set the current directory
+- **Example**: change to the parent directory
+````
+cd ..
+````
+- **Example**: change to the previous directory
+````
+cd -
+````
+- **Example**: change to the directory called `test`, found within the `/home/judson/repos` directory
+````
+cd /home/judson/repos/test
+````
 ### "mv" command
-- `mv`:  relocate or rename a file
-  - `mv file1.txt dir1`:  move `file1.txt` into the directory called `dir1`
-  - `mv file1.txt file2.txt`: rename `file1.txt` to `file2.txt` (overwrites `file2.txt` if it already exists)
-
+relocate or rename a file
+- **Example**: move `file1.txt` into the directory called `dir1`
+````
+mv file1.txt dir1
+````
+- **Example**: rename `file1.txt` to `file2.txt` (overwrites `file2.txt` if it already exists)
+````
+mv file1.txt file2.txt
+````
 ### "cp" command
-- `cp`:  make a copy a file or directory
-  - `cp file1.txt file2.txt`: make a copy of `file1.txt` called `file2.txt` (overwrites `file2.txt` if it already exists)
-  - `cp -r dir1 ../dir2`: copy the directory called `dir1` and all of its contents into the parent directory with the new name `dir2`. This assumes that the target directory (`dir2`) does not already exist in that location
+make a copy a file or directory
+- **Example**: make a copy of `file1.txt` called `file2.txt` (overwrites `file2.txt` if it already exists)
+````
+cp file1.txt file2.txt
+````
+- **Example**: copy the directory called `dir1` and all of its contents into the parent directory with the new name `dir2`. This assumes that the target directory (`dir2`) does not already exist in that location
+````
+cp -r dir1 ../dir2`
+````
 
 ### "rm" command
 remove a file (be careful because there is no recovering from this)
-
+- **Example**: permanently delete 'file1.txt'
 ````
-Example: permanently delete 'file1.txt'
-
-	rm file1.txt
-
-Example: permanently remove the directory called 'dir1' and all of its contents
-
-	rm -r dir1
+rm file1.txt
+````
+- **Example**: permanently remove the directory called 'dir1' and all of its contents
+````
+rm -r dir1
 ````
 
 ### "rmdir" command
