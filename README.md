@@ -8,8 +8,15 @@ This repository contains code samples that will be used in class.
 
 ## Linux Command Cheat Sheet
 The following list are some of the more common Linux command that you will need for this class. Under each main bullet point, the sub-bullets provide examples of how the command can be used.
-- `man`: view the manual for any linux command
-  - `man ls`: view the manual for the `ls command`
+### "man" command
+view the manual for any linux command
+- view the manual for the `ls` command
+````
+man ls
+````
+
+
+
 - `ls`:  list the contents of the current directory
   - `ls ..`: list the contents of the parent director
   - `ls project1`: list the contents of the directory called `project1` (if it exists)
