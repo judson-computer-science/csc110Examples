@@ -75,11 +75,9 @@ rm -r dir1
 
 ### "rmdir" command
 remove an empty directory (to remove a directory that is not empty, use `rm`)
-
+- **Example**: remove the empty directory called `dir1`
 ````
-Example: remove the empty directory called `dir1`
-
-	rmdir dir1
+rmdir dir1
 ````
 
 ## Git Cheat Sheet
