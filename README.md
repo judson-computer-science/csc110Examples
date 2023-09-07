@@ -66,6 +66,10 @@ cp file1.txt file2.txt
 ````
 cp -r dir1 ../dir2
 ````
+- **Example**: copy the directory called `dir1` and all of its contents into the home directory with the new name `dir2`. If any files within `dir2` already exist, do not overwrite them.
+````
+cp -rn dir1 ~/dir2
+````
 ### "rm" command
 remove a file (be careful because there is no recovering from this)
 - **Example**: permanently delete `file1.txt`
