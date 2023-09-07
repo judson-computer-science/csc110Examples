@@ -1,7 +1,7 @@
 # Coding Challenges
 
 ## Challenge #1
-Compile and execute the file break.c.  Find out why it's not working as expected and make the necessary correction so that it produces the output below:
+Compile and execute the file `break.c`.  Find out why it's not working as expected and make the necessary correction so that it produces the output below:
 ````
 0-1-2-34567
 ````
@@ -10,10 +10,10 @@ Compile and execute the file break.c.  Find out why it's not working as expected
 ## Challenge #2
 Create a program that does the following:
 1. counts backward from 15 to 5 using a `for` loop
-2. counts forward from 5 to 15 using a while loop
+2. counts forward from 5 to 15 using a `while` loop
 
 ## Challenge #3
-Create a program that evaluates 2 integers and prints statements to describe their relative values.  The following comparisons should be made:
+Create a program that evaluates 2 integers (you can define two variables and assign them any arbitrary values) and prints statements to describe their relative values.  The following comparisons should be made:
 - Is one bigger than the other?
    - If so, print the statement "the numbers are not equal".
    - Otherwise, print "the numbers are equal"
