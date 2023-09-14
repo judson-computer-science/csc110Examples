@@ -1,25 +1,6 @@
 # Week 4 Coding Challenges
 You may work in pairs to accomplish the following challenges
 
-## Conditional Operator
-- create a `for` loop that declares a new string (character array) of size 6 within the body of the loop.
-- use the conditional operator to assign either the value "even" or "odd" to the string based on the value of your loop's counter variable (`i`).  The value should be assigned at the time the array is declared.
-- print the string in the body of the loop.
-- your output should look as follows:
-
-````
-even
-odd
-even
-odd
-even
-odd
-even
-odd
-even
-odd
-````
-
 ## Strings
 - Declare an array of size 5, initializing it with the string "bath"
 - print the first character of the string using the appropriate notation and the character format specifier (`%c`)
