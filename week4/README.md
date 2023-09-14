@@ -4,6 +4,7 @@ You may work in pairs to accomplish the following challenges
 ## Strings
 - Declare an array of size 5, initializing it with the string "bath"
 - print the first character of the string using the appropriate notation and the character format specifier (`%c`)
+- print the last character of the string using the `strlen()` function to derive its index
 - print the word and use `strlen()` to print its length as shown below
 - Set the 5th element of the array to the letter 'e'
 - Set the 6th element of the array to the letter 's'
