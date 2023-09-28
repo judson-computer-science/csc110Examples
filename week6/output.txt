@@ -1,0 +1,11 @@
+Processing collection: My Top 2 Books
+Book: "Superfudge" (ISBN: 88888888) by Judy Blume
+Book: "It" (ISBN: 4444444) by Steven King
+
+Book Summary:
+"Superfudge" (ISBN: 88888888), by Judy Blume, is a 200 page Children's book
+"Tales of a 4th Grade Nothing" (ISBN: 9999999), by Judy Blume, is a 200 page Children's book
+"It" (ISBN: 4444444), by Steven King, is a 500 page Thriller
+"Pet Cemetary" (ISBN: 3333333), by Steven King, is just 500 pages of goodness!
+"Charlotte's Web" (ISBN: 9780807208526), by E. B. White, is a 500 page Children's book
+"Encyclopedia Brown, Boy Detective" (ISBN: 9780807208526), by Donald J. Sobol, is a 500 page Children's book
