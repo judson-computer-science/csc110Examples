@@ -33,11 +33,11 @@ int main() {
 
     printf("%-10s  %-20s  %8s\n", "SKU", "Description", "Price");
 
-    char desc[PRINTABLE_DESC_LENGTH + 4];
+    char desc[PRINTABLE_DESC_LENGTH + 4] = "";
 
-    strncpy(desc, cart.items[0].description, PRINTABLE_DESC_LENGTH);
+    strncpy(desc, mouse.description, PRINTABLE_DESC_LENGTH);
 
-    if(strlen(cart.items[0].description) != strlen(desc)) {
+    if(strlen(mouse.description) != strlen(desc)) {
         strcat(desc, "...");
     }
 

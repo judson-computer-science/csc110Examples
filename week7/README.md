@@ -9,7 +9,7 @@ Continue building on your shopping cart application that you started last class.
    - `description`: a description of the coupon (for example the text "10% off")
    - `skus`: an array of SKUs this coupon applies to
    - `sku_count`: the number of SKUs in the previous array
-4. modify your Cart structure to include an array of coupons
+4. modify your Cart structure to include an array of coupons and a coupon count
 5. create 2 Coupons and add them to your cart (before printing the receipt)
    - one of the coupons should be applicable to 2 of your items
 6. modify your receipt printing logic to evaluate the coupon list against each item after it is printed. For every coupon that applies, print a discount line on the receipt.
